@@ -48,6 +48,7 @@
       </ion-list>
 
       <!-- <ExploreContainer name="Tab 1 page" /> -->
+      <a target="_blank" href="https://icons8.com/icon/veshHDgXKvFe/mercury">Mercury</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
     </ion-content>
   </ion-page>
 </template>
